@@ -1,0 +1,197 @@
+@media (min-width: 300px) and (max-width: 767.98px) {
+  .b {
+    text-align: center;
+    margin-right: 15px !important;
+    margin-left: 15px !important;
+    margin-top: 30px;
+  }
+
+  .a {
+    margin-bottom: 10px !important;
+  }
+
+  .e {
+    display: none;
+  }
+
+  .c {
+    font-size: 30px !important;
+  }
+
+  .f {
+    display: flex;
+    justify-content: center;
+  }
+
+  .g {
+    display: none !important;
+  }
+
+  .h {
+    margin-left: 0 !important;
+  }
+
+  .i {
+    display: block !important;
+    text-align: center;
+  }
+
+  .j {
+    margin-left: 0 !important;
+  }
+
+  .k {
+    display: block !important;
+    text-align: center;
+
+  }
+  .l{
+    width: 100% !important;
+    margin: 0 auto !important;
+  }
+  .m{
+    display: block;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  .n{
+    display: block;
+    text-align: center;
+    width: 100%;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .b {
+    text-align: center;
+    margin-right: 15px !important;
+    margin-left: 15px !important;
+    margin-top: 30px;
+  }
+
+  .a {
+    margin-bottom: 10px !important;
+  }
+
+  .g {
+    display: none !important;
+  }
+
+  .h {
+    text-align: center !important;
+    margin-left: 0px !important;
+  }
+
+  .j {
+    text-align: center !important;
+    margin-left: 0px !important;
+  }
+  .l{
+    width: 100% !important;
+    margin: 0 auto !important;
+  }
+}
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) {}
+
+@media (min-width: 1200px) and (max-width: 1399.98px) {}
+
+@media (min-width: 1400px) {}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a {
+  color: gray;
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
+}
+
+.b {
+  padding: 15px;
+  background-color: #1890FF;
+  border-radius: 4px;
+}
+
+.b a {
+  color: white;
+
+}
+
+.d a {
+  color: white;
+  padding: 12px;
+  background-color: #1890FF;
+  border-radius: 4px;
+}
+
+.index-heading-wrapper a {
+  text-decoration: underline;
+  color: black;
+}
+.nav-tabs .nav-link {
+  margin-bottom: -1px;
+  background: 0 0;
+  border: 0px solid transparent;
+  border-top-left-radius: 0.25rem;
+  border-top-right-radius: 0.25rem;
+}
+.nav-tabs .nav-link.active {
+  color: #495057;
+  background-color: #fff;
+  border-color: none;
+  border-bottom: 1px #1890FF solid;
+  color: #1890FF !important;
+}
+.nav-tabs .nav-link:focus, .nav-tabs .nav-link:hover {
+  border-color: none !important; 
+  isolation: initial !important;
+  color: #1890FF !important;
+  border-bottom: 1px #1890FF solid;
+}
